@@ -223,6 +223,5 @@ For issues or questions:
 - Review Expo documentation for development setup
 - Check Gemini API documentation for AI features
 
-## License
+---
 
-This project is for educational and personal use.
