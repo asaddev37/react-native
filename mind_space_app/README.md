@@ -216,12 +216,6 @@ mind-space-app/
 5. **Admin Panel**: Content management system
 6. **Therapist Integration**: Professional support features
 
-## Support
-
-For issues or questions:
-- Check Firebase console for backend issues
-- Review Expo documentation for development setup
-- Check Gemini API documentation for AI features
-
 ---
+made by ....................
 
