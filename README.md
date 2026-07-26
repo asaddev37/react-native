@@ -17,7 +17,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 
 ---
 
-## 📂 Repository Roadmap: The Mobile Ecosystems
+## 📂 Repository Roadmap: The Mobile Ecosystems:
 
 ### 🏆 [Gold Bazar (GoldDesk)](https://github.com/asaddevx/react-native/tree/main/GOLD_BAZAR/) | Fintech & Physics
 
