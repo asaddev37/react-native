@@ -11,7 +11,7 @@ Across diverse sectors—Fintech, Healthcare, and Institutional Management—the
 * **The "Manual Sync" Error:** Information gathered on the move is manually transcribed into systems later, leading to "Blind Profits" and "Ghost Stock" desyncs
 * **Delayed Response Latency:** Critical decisions, such as medical matching or complaint escalation, are slowed down by the requirement to be at a desk to initiate a workflow
 
-## 💡 The Solution: Untethering Industry with Mobile-First OS
+## 💡 The Solution: Untethering Industry with Mobile-First OS:
 
 My engineering focus is on **Systemic Untethering**. I architect mobile-first ecosystems that transform these "Stationary Systems" into agile, cloud-synced command centers. By bridging the gap between high-performance mobile clients and robust enterprise backends, I ensure that lab-grade physics tests, medical logistics, and institutional accountability are available anytime, anywhere.
 
