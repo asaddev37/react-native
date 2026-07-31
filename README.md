@@ -106,7 +106,6 @@ Built with focus on **performance, maintainability, and delightful user experien
   </a>
 </div>
 
-<img width="956" height="506" alt="image" src="https://github.com/user-attachments/assets/ee3a5a3a-1979-4d0b-8c5d-e54ad4c8061b" />
 
 
 
