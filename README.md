@@ -1,7 +1,7 @@
 
 ---
 
-# 📱 The Mobility Hub: Cross-Platform Engineering
+# 📱 The Mobility Hub: Cross-Platform Engineering:
 
 ## 🚨 The Industry Problem: The "Stationary System" Barrier
 
